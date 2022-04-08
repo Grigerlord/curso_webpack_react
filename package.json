@@ -35,13 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:Grigerlord/curso_webpack_react.git"
   },
   "keywords": [],
   "author": "Griger Ratia <grigerratia@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/platzi/curso-webpack-react/issues"
-  },
-  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+  "license": "ISC"
 }
